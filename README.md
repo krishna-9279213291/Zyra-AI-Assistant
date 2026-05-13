@@ -8,7 +8,8 @@ An advanced personal AI assistant made using Python.
 - Browser Control
 - WhatsApp Messaging
 - Vision Features
-- GUI Interface
+- GUI Interface''
+- Intelligent System 
 
 ## Tech Stack
 - Python
